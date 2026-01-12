@@ -26,8 +26,8 @@ I'm passionate about learning programming, building projects, and improving my s
  
     ## 📫 Connect With Me
 
-- 📧 Email: [sarfall00@gmail.com]
-- 💼 LinkedIn:www.linkedin.com/in/fatima-sanchez-reategui
+- 📧 Email: sarfall00@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/fatima-sanchez-reategui
 
 ⭐ Thanks for visiting my profile!  
 Feel free to explore my repositories and follow my learning journey.
