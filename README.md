@@ -12,12 +12,14 @@ I'm passionate about learning programming, building projects, and improving my s
 
 - **Languages:**  
   - PHP 🐘  
-  - Python 🐍  
+  - Python 🐍
+  - SQL
 
 - **Frameworks & Tools:**  
   - Laravel  
   - Git & GitHub  
-  - MySQL  
+  - MySQL
+  - Laragon
 
 - **Other Skills:**  
   - API integration (REST)  
