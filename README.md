@@ -13,10 +13,12 @@ I'm passionate about learning programming, building projects, and improving my s
 - **Languages:**  
   - PHP 🐘  
   - Python 🐍
+  - Javascript
   - SQL
 
 - **Frameworks & Tools:**  
-  - Laravel  
+  - Laravel
+  - React js
   - Git & GitHub  
   - MySQL
   - Laragon
